@@ -1,0 +1,222 @@
+body {
+	background: white;
+}
+
+
+
+/* Common styles */
+
+.push-left {
+	float: left;
+}
+
+.push-right {
+	float: right;
+}
+
+.center-block {
+	margin: 0 auto;
+}
+
+.center-text {
+	text-align: center;
+}
+
+.full-width {
+	width: 1000px;
+}
+
+/* Layout */
+.backside {
+	width: 100%;
+	clear: both;
+}
+
+.wrapper {
+	margin: 0 auto;
+	height: auto;
+}
+
+.clear {
+	clear: both;
+}
+
+
+/* Header */
+.header {
+	background: #e3e3e3 url('img/header-bg.jpg') no-repeat center;
+	height: 700px;
+}
+
+
+/* Feature block */
+
+.feature-block {
+
+}
+
+.feature-column {
+	width: 400px;
+	height: 100%;
+}
+
+.feature-middle-col {
+	margin: 0 400px;
+	height: 100%;
+}
+
+.feature-middle-col img {
+	margin: -296px 0 0 0;
+}
+
+.service-item {
+	width: 320px;
+}
+
+/* Get App block */
+.get-app-block p {
+	width: 550px;
+}
+
+.get-app-column {
+	width: 50%;
+	height: 100%;
+}
+
+.platform {
+	width: 68px;
+	height: 68px;
+	float: left;
+	margin-right: 20px;
+	background-position: 0 0;
+	background-repeat: no-repeat;
+}
+
+.apple {
+	background-image: url('img/devices/apple.png');
+}
+
+.apple:hover {
+	background-image: url('img/devices/apple-hover.png');
+}
+
+.android {
+	background-image: url('img/devices/android.png');
+}
+
+.android:hover {
+	background-image: url('img/devices/android-hover.png');
+}
+
+.windows {
+	background-image: url('img/devices/windows.png');
+}
+
+.windows:hover {
+	background-image: url('img/devices/windows-hover.png');
+}
+
+	/* Faces */
+.faces {
+	background: #e3e3e3 url('img/faces-bg.jpg') no-repeat center;
+	height: 318px;
+}
+
+/* Get in touch*/
+
+.get-in-touch h2 {
+	margin-top: 50px;
+}
+
+.socials-block {
+	width: 304px;
+}
+
+.sn {
+	width: 34px;
+	height: 34px;
+	float: left;
+	margin-right: 20px;
+	background-position: 0 0;
+	background-repeat: no-repeat;
+}
+
+.sn.last {
+	margin-right: 0;
+}
+
+.twitter {
+
+	background-image: url('img/socials/twitter.png');
+}
+
+.twitter:hover {
+
+	background-image: url('img/socials/twitter-hover.png');
+}
+
+.facebook {
+
+	background-image: url('img/socials/facebook.png');
+}
+
+.facebook:hover {
+
+	background-image: url('img/socials/facebook-hover.png');
+}
+
+
+.pinterest {
+
+	background-image: url('img/socials/pinterest.png');
+}
+
+.pinterest:hover {
+
+	background-image: url('img/socials/pinterest-hover.png');
+}
+
+.gplus {
+
+	background-image: url('img/socials/gplus.png');
+}
+
+.gplus:hover {
+
+	background-image: url('img/socials/gplus-hover.png');
+}
+
+.in {
+
+	background-image: url('img/socials/in.png');
+}
+
+.in:hover {
+
+	background-image: url('img/socials/in-hover.png');
+}
+
+.youtube {
+
+	background-image: url('img/socials/youtube.png');
+}
+
+.youtube:hover {
+
+	background-image: url('img/socials/youtube-hover.png');
+}
+
+/* footer */
+
+.footer {
+	background-color: #e3e3e3;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	width: 100%;
+}
+
+.link {
+	text-decoration: none;
+	color: grey;
+	padding-left: 5px;
+}
