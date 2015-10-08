@@ -48,6 +48,24 @@ body {
 	height: 700px;
 }
 
+.logo {
+	margin: 0 auto;
+	width: 250px;
+	padding-top: 100px;
+}
+
+.slogan {
+	text-align: center;
+	padding-top: 20px;
+	font-family: Georgia;
+}
+
+.arrow {
+	width: 50px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
 
 /* Feature block */
 
