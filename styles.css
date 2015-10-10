@@ -28,9 +28,7 @@ h4 {
 
 /* Common styles */
 
-.service-item {
-	margin: 0 auto;
-}
+
 
 
 .push-left {
@@ -125,13 +123,16 @@ h4 {
 
 .service-item {
 	width: 320px;
+	margin: 0 auto;
 }
 
 /* Get App block */
 .get-app-block {
 	width: 100%;
+	margin: 0 auto;
 	background-color: #e3e3e3;
 }
+
 .get-app-block p {
 	width: 550px;
 
@@ -140,6 +141,10 @@ h4 {
 .get-app-column {
 	width: 50%;
 	height: 100%;
+}
+
+iframe {
+	border-radius: 10px;
 }
 
 .platform {
