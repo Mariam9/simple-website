@@ -13,6 +13,7 @@ p.center {
 	text-align: center;
 	font-family: Raleway;
 	padding-top: 20px;
+	color: black;
 }
 
 h2 {
@@ -131,7 +132,16 @@ h4 {
 .get-app-block {
 	width: 100%;
 	margin: 0 auto;
-	background-color: #e3e3e3;
+	background: #e3e3e3;
+	overflow: auto;
+	height: 400px;
+	
+
+}
+
+.down {
+	padding-top: 50px;
+
 }
 
 .get-app-block p {
@@ -146,6 +156,7 @@ h4 {
 
 iframe {
 	border-radius: 10px;
+	
 }
 
 .platform {
