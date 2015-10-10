@@ -8,12 +8,25 @@ p {
 	font-size: 15px;
 }
 
+
 h2 {
 	font-family: Raleway;
 	
 }
 
+h4 {
+	font-family: Raleway;
+	color: black;
+	text-align: center;
+}
+
+cite {
+	font-family: Raleway;
+	text-align: center;
+	color: black;
+}
 /* Common styles */
+
 
 .push-left {
 	float: left;
@@ -107,8 +120,13 @@ h2 {
 }
 
 /* Get App block */
+.get-app-block {
+	width: 100%;
+	background-color: #e3e3e3;
+}
 .get-app-block p {
 	width: 550px;
+
 }
 
 .get-app-column {
