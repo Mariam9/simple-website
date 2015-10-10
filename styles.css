@@ -296,4 +296,9 @@ iframe {
 	text-decoration: none;
 	color: grey;
 	padding-left: 5px;
+	font-family: Helvetica;
+}
+
+.link:hover {
+	color: black;
 }
