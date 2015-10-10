@@ -110,12 +110,12 @@ h4 {
 }
 
 .feature-column {
-	width: 400px;
+	width: 375px;
 	height: 100%;
 }
 
 .feature-middle-col {
-	margin: 0 400px;
+	margin: 0 375px;
 	height: 100%;
 }
 
