@@ -57,7 +57,10 @@ body {
 .slogan {
 	text-align: center;
 	padding-top: 20px;
-	font-family: Georgia;
+	font-size: 35px;
+	font-family: Raleway;
+	color: #3f3c3c;
+	
 }
 
 .arrow {
@@ -66,7 +69,9 @@ body {
 	padding-top: 20px;
 }
 
-
+.arrow:hover {
+	background-image: url('img/arrow-hover.png');
+}
 /* Feature block */
 
 .feature-block {
