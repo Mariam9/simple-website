@@ -8,6 +8,11 @@ p {
 	font-size: 15px;
 }
 
+p.center {
+	text-align: center;
+	font-family: Raleway;
+	padding-top: 20px;
+}
 
 h2 {
 	font-family: Raleway;
@@ -20,11 +25,7 @@ h4 {
 	text-align: center;
 }
 
-cite {
-	font-family: Raleway;
-	text-align: center;
-	color: black;
-}
+
 /* Common styles */
 
 
@@ -59,6 +60,9 @@ cite {
 	height: auto;
 }
 
+
+
+
 .clear {
 	clear: both;
 }
@@ -76,7 +80,7 @@ cite {
 	padding-top: 100px;
 }
 
-.slogan {
+.slogan p {
 	text-align: center;
 	padding-top: 20px;
 	font-size: 35px;
