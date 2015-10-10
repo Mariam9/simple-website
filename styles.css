@@ -126,6 +126,7 @@ h4 {
 .service-item {
 	width: 320px;
 	margin: 0 auto;
+	padding: 20px;
 }
 
 /* Get App block */
