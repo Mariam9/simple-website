@@ -6,7 +6,8 @@ body {
 p {
 	font-family: Helvetica;
 	color: #848484;
-	font-size: 15px;
+	font-size: 16px;
+	line-height: 1.5;
 }
 
 p.center {
@@ -16,7 +17,7 @@ p.center {
 	color: black;
 }
 
-h2 {
+h3 {
 	font-family: Raleway;
 	
 }
@@ -35,6 +36,7 @@ h4 {
 
 .push-left {
 	float: left;
+
 }
 
 .push-right {
@@ -85,7 +87,8 @@ h4 {
 }
 
 .slogan {
-	margin-top: 46px;
+	margin-top: 33px;
+	margin-left: 2px;
 }
 
 .slogan p {
@@ -97,9 +100,9 @@ h4 {
 }
 
 .arrow {
-	margin: 55px auto 0 auto;
+	margin: 38px auto 0 auto;
 	width: 30px;
-	padding-right: 28px;
+	padding-right: 26px;
 }
 
 
@@ -121,14 +124,16 @@ h4 {
 }
 
 .feature-middle-col img {
-	margin: -296px 0 0 0;
+	margin: -296px 0 0 -3px;
+	
 }
 
 .service-item {
-	width: 320px;
-	margin: 0 auto;
-	padding: 20px;
+	width: 300px;
+	margin: 56px auto 0 auto;
 }
+
+
 
 /* Get App block */
 .get-app-block {
