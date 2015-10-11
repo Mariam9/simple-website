@@ -80,13 +80,16 @@ h4 {
 
 .logo {
 	margin: 0 auto;
-	width: 250px;
-	padding-top: 100px;
+	width: 239px;
+	padding-top: 114px;
+}
+
+.slogan {
+	margin-top: 46px;
 }
 
 .slogan p {
 	text-align: center;
-	padding-top: 20px;
 	font-size: 35px;
 	font-family: Raleway;
 	color: #3f3c3c;
@@ -94,14 +97,12 @@ h4 {
 }
 
 .arrow {
-	width: 50px;
-	margin: 0 auto;
-	padding-top: 20px;
+	margin: 55px auto 0 auto;
+	width: 30px;
+	padding-right: 28px;
 }
 
-.arrow:hover {
-	background-image: url('img/arrow-hover.png');
-}
+
 
 /* Feature block */
 
