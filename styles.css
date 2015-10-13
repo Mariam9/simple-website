@@ -141,7 +141,7 @@ h4 {
 	margin: 0 auto;
 	background: #e3e3e3;
 	overflow: auto;
-	height: 400px;
+	height: 425px;
 	
 
 }
@@ -177,6 +177,7 @@ iframe {
 
 .apple {
 	background-image: url('img/devices/apple.png');
+	padding-top: 123px;
 }
 
 .apple:hover {
