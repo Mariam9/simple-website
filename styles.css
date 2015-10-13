@@ -168,8 +168,8 @@ iframe {
 	width: 68px;
 	height: 68px;
 	float: left;
-	margin-top: 52px;
-	margin-right: 25px;
+	margin-top: 55px;
+	margin-right: 20px;
 	background-position: 0 0;
 	background-repeat: no-repeat;
 }
@@ -206,6 +206,7 @@ iframe {
 .faces {
 	background: #e3e3e3 url('img/faces-bg.jpg') no-repeat center;
 	height: 318px;
+	margin-right: 3px;
 }
 
 /* Get in touch*/
