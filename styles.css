@@ -87,8 +87,8 @@ h4 {
 }
 
 .slogan {
-	margin-top: 33px;
-	margin-left: 2px;
+	margin-top: 41px;
+	margin-left: 4px;
 }
 
 .slogan p {
@@ -100,9 +100,9 @@ h4 {
 }
 
 .arrow {
-	margin: 38px auto 0 auto;
+	margin: 48px auto 0 auto;
 	width: 30px;
-	padding-right: 26px;
+	padding-right: 20px;
 }
 
 
@@ -110,6 +110,7 @@ h4 {
 /* Feature block */
 
 .feature-block {
+	height: 496px;
 
 }
 
@@ -124,7 +125,7 @@ h4 {
 }
 
 .feature-middle-col img {
-	margin: -296px 0 0 -3px;
+	margin: -299px 0 0 -1px;
 	
 }
 
@@ -177,7 +178,6 @@ iframe {
 
 .apple {
 	background-image: url('img/devices/apple.png');
-	padding-top: 123px;
 }
 
 .apple:hover {
@@ -200,6 +200,10 @@ iframe {
 	background-image: url('img/devices/windows-hover.png');
 }
 
+.citation {
+	height: 182px;
+}
+
 	/* Faces */
 .faces {
 	background: #e3e3e3 url('img/faces-bg.jpg') no-repeat center;
@@ -207,6 +211,9 @@ iframe {
 }
 
 /* Get in touch*/
+.get-in-touch {
+	height: 240px;
+}
 
 .get-in-touch h2 {
 	margin-top: 50px;
@@ -298,6 +305,7 @@ iframe {
 	padding-top: 50px;
 	padding-bottom: 50px;
 	width: 100%;
+	height: 132px;
 }
 
 .link {
