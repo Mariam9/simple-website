@@ -147,10 +147,7 @@ h4 {
 
 }
 
-.down {
-	padding-top: 50px;
 
-}
 
 .get-app-block p {
 	width: 550px;
@@ -164,7 +161,7 @@ h4 {
 
 iframe {
 	border-radius: 10px;
-	
+	margin-top: 59px;
 }
 
 .platform {
