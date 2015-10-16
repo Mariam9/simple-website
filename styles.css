@@ -117,6 +117,9 @@ h4 {
 .feature-column {
 	width: 375px;
 	height: 100%;
+	position: relative;
+	left: 37px;
+	top: 2px;
 }
 
 .feature-middle-col {
