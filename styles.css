@@ -154,7 +154,16 @@ h4 {
 
 .get-app-block p {
 	width: 550px;
+	position: relative;
+	top: 41px;
+	left: 10px;
 
+}
+
+.get-app-block h3 {
+	position: relative;
+	top: 37px;
+	left: 10px;
 }
 
 .get-app-column {
