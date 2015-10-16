@@ -325,6 +325,17 @@ iframe {
 	background-image: url('img/socials/youtube-hover.png');
 }
 
+.get-in-touch h3 {
+	position: relative;
+	top: 40px;
+}
+
+.get-in-touch p {
+	position: relative;
+	top: 40px;
+}
+
+
 /* footer */
 
 .footer {
