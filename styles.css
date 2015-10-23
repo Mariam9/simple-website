@@ -258,7 +258,7 @@ h3 {
 	width: 34px;
 	height: 34px;
 	float: left;
-	margin: 46px 11px 50px 0;
+	margin: 21px 11px 50px 0;
 	background: url('img/sprites/socials-sprite.png') no-repeat 0 0;
 	display: block;
 }
@@ -336,13 +336,15 @@ h3 {
 
 .get-in-touch h3 {
 	position: relative;
-	top: 40px;
+	top: 23px;
+	left: 3px;
 	font-size: 24px;
 }
 
 .get-in-touch p {
 	position: relative;
-	top: 40px;
+	top: 15px;
+	right: 2px;
 }
 
 
