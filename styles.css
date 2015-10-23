@@ -248,11 +248,9 @@ p {
 	width: 34px;
 	height: 34px;
 	float: left;
-	margin-right: 11px;
-	margin-top: 46px;
+	margin: 46px 11px 50px 0;
 	background-position: 0 0;
 	background-repeat: no-repeat;
-	padding-bottom: 50px;
 }
 
 .sn.last {
@@ -261,73 +259,79 @@ p {
 
 .twitter {
 
-	background-image: url('img/socials/twitter.png');
+	background-image: url('img/sprites/socials/twitter-sprite.png');
+	display: block;
 	position: relative;
 	left: 3px;
 }
 
 .twitter:hover {
 
-	background-image: url('img/socials/twitter-hover.png');
+	background-position: 0 -34px;
 }
 
 .facebook {
 
-	background-image: url('img/socials/facebook.png');
+	background-image: url('img/sprites/socials/facebook-sprite.png');
+	display: block;
 	position: relative;
 	left: 2px;
 }
 
 .facebook:hover {
 
-	background-image: url('img/socials/facebook-hover.png');
+	background-position: 0 -34px;
 }
 
 
 .pinterest {
 
-	background-image: url('img/socials/pinterest.png');
+	background-image: url('img/sprites/socials/pinterest-sprite.png');
+	display: block;
 	position: relative;
 	left: 1px;
 }
 
 .pinterest:hover {
 
-	background-image: url('img/socials/pinterest-hover.png');
+	background-position: 0 -34px;
 }
 
 .gplus {
 
-	background-image: url('img/socials/gplus.png');
+	background-image: url('img/sprites/socials/gplus-sprite.png');
+	display: block;
 }
 
 .gplus:hover {
 
-	background-image: url('img/socials/gplus-hover.png');
+	background-position: 0 -34px;
 }
 
 .in {
 
-	background-image: url('img/socials/in.png');
+	background-image: url('img/sprites/socials/in-sprite.png');
+	display: block;
 	position: relative;
 	right: 1px;
 }
 
 .in:hover {
 
-	background-image: url('img/socials/in-hover.png');
+	background-position: 0 -34px;
 }
 
 .youtube {
 
-	background-image: url('img/socials/youtube.png');
+	background-image: url('img/sprites/socials/youtube-sprite.png');
+	display: block;
 	position: relative;
 	right: 2px;
 }
 
 .youtube:hover {
 
-	background-image: url('img/socials/youtube-hover.png');
+	background-position: 0 -34px;
 }
 
 .get-in-touch h3 {
