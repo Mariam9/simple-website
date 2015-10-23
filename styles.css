@@ -169,27 +169,32 @@ p {
 }
 
 .apple {
-	background-image: url('img/devices/apple.png');
+	background-image: url('img/sprites/devices/apple-sprite.png');
+	display: block;
 }
 
 .apple:hover {
-	background-image: url('img/devices/apple-hover.png');
+	background-position: 0 -68px;
 }
 
 .android {
-	background-image: url('img/devices/android.png');
+	background-image: url('img/sprites/devices/android-sprite.png');
+	display: block;
+
+
 }
 
 .android:hover {
-	background-image: url('img/devices/android-hover.png');
+	background-position: 0 -68px;
 }
 
 .windows {
-	background-image: url('img/devices/windows.png');
+	background-image: url('img/sprites/devices/windows-sprite.png');
+	display: block;
 }
 
 .windows:hover {
-	background-image: url('img/devices/windows-hover.png');
+	background-position: 0 -68px;
 }
 
 #some-video {
