@@ -13,6 +13,11 @@ p {
 	line-height: 1.5;
 }
 
+h3 {
+
+	font-size: 22px;
+}
+
 
 /* Common styles */
 
@@ -213,11 +218,14 @@ p {
 	text-align: center;
 	padding-top: 44px;
 	color: black;
+	font-size: 24px;
+	font-family: inherit;
 }
 
 
 .citation h4 {
 	font-family: inherit;
+	font-size: 14px;
 	color: black;
 	text-align: center;
 }
@@ -337,6 +345,7 @@ p {
 .get-in-touch h3 {
 	position: relative;
 	top: 40px;
+	font-size: 24px;
 }
 
 .get-in-touch p {
@@ -360,6 +369,7 @@ p {
 	color: grey;
 	margin-left: 30px;
 	font-family: Helvetica;
+	font-size: 16px;
 	position: relative;
 	right: 27px;
 	top: 57px;
