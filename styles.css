@@ -166,16 +166,16 @@ h3 {
 	height: 68px;
 	float: left;
 	margin-right: 20px;
-	background-position: 0 0;
-	background-repeat: no-repeat;
 	position: relative;
 	left: 12px;
 	top: 44px;
+	background: url('img/sprites/devices-sprite.png') no-repeat 0 0;
+	display: block;
+
 }
 
 .apple {
-	background-image: url('img/sprites/devices/apple-sprite.png');
-	display: block;
+    background-position: 0 0;
 }
 
 .apple:hover {
@@ -183,23 +183,19 @@ h3 {
 }
 
 .android {
-	background-image: url('img/sprites/devices/android-sprite.png');
-	display: block;
-
-
+	background-position: -68px 0;
 }
 
 .android:hover {
-	background-position: 0 -68px;
+	background-position: -68px -68px;
 }
 
 .windows {
-	background-image: url('img/sprites/devices/windows-sprite.png');
-	display: block;
+	background-position: -136px 0;
 }
 
 .windows:hover {
-	background-position: 0 -68px;
+	background-position: -136px -68px;
 }
 
 #some-video {
@@ -263,8 +259,8 @@ h3 {
 	height: 34px;
 	float: left;
 	margin: 46px 11px 50px 0;
-	background-position: 0 0;
-	background-repeat: no-repeat;
+	background: url('img/sprites/socials-sprite.png') no-repeat 0 0;
+	display: block;
 }
 
 .sn.last {
@@ -272,80 +268,70 @@ h3 {
 }
 
 .twitter {
-
-	background-image: url('img/sprites/socials/twitter-sprite.png');
-	display: block;
+	background-position: 0 0;
 	position: relative;
 	left: 3px;
 }
 
 .twitter:hover {
-
 	background-position: 0 -34px;
 }
 
 .facebook {
 
-	background-image: url('img/sprites/socials/facebook-sprite.png');
-	display: block;
 	position: relative;
 	left: 2px;
+	background-position: -34px 0;
 }
 
 .facebook:hover {
 
-	background-position: 0 -34px;
+	background-position: -34px -34px;
 }
 
 
 .pinterest {
 
-	background-image: url('img/sprites/socials/pinterest-sprite.png');
-	display: block;
+	background-position: -68px 0;
 	position: relative;
 	left: 1px;
 }
 
 .pinterest:hover {
 
-	background-position: 0 -34px;
+	background-position: -68px -34px;
 }
 
 .gplus {
 
-	background-image: url('img/sprites/socials/gplus-sprite.png');
-	display: block;
+	background-position: -102px 0;
 }
 
 .gplus:hover {
 
-	background-position: 0 -34px;
+	background-position: -102px -34px;
 }
 
 .in {
-
-	background-image: url('img/sprites/socials/in-sprite.png');
-	display: block;
+	background-position: -136px 0;
 	position: relative;
 	right: 1px;
 }
 
 .in:hover {
 
-	background-position: 0 -34px;
+	background-position: -136px -34px;
 }
 
 .youtube {
-
-	background-image: url('img/sprites/socials/youtube-sprite.png');
-	display: block;
+	background-position: -170px 0;
 	position: relative;
 	right: 2px;
 }
 
 .youtube:hover {
 
-	background-position: 0 -34px;
+	background-position: -170px -34px;
 }
 
 .get-in-touch h3 {
