@@ -108,8 +108,8 @@ h3 {
 	width: 375px;
 	height: 100%;
 	position: relative;
-	left: 37px;
-	top: 2px;
+	left: 36px;
+	bottom: 3px;
 }
 
 .feature-middle-col {
@@ -144,15 +144,15 @@ h3 {
 .get-app-block p {
 	width: 550px;
 	position: relative;
-	top: 41px;
+	top: 31px;
 	left: 10px;
 
 }
 
 .get-app-block h3 {
 	position: relative;
-	top: 37px;
-	left: 10px;
+	top: 33px;
+	left: 11px;
 }
 
 .get-app-column {
@@ -170,7 +170,7 @@ h3 {
 	background-repeat: no-repeat;
 	position: relative;
 	left: 12px;
-	top: 55px;
+	top: 44px;
 }
 
 .apple {
@@ -216,7 +216,8 @@ h3 {
 
 .citation p {
 	text-align: center;
-	padding-top: 44px;
+	padding-top: 28px;
+	padding-left: 6px;
 	color: black;
 	font-size: 24px;
 	font-family: inherit;
@@ -228,6 +229,7 @@ h3 {
 	font-size: 14px;
 	color: black;
 	text-align: center;
+	margin-top: -4px;
 }
 
 
@@ -235,7 +237,7 @@ h3 {
 .faces {
 	background: #e3e3e3 url('img/faces-bg.jpg') no-repeat center;
 	height: 318px;
-	margin-right: 6px;
+	margin-right: 7px;
 }
 
 /* Get in touch*/
