@@ -136,7 +136,6 @@ p {
 }
 
 
-
 .get-app-block p {
 	width: 550px;
 	position: relative;
@@ -156,12 +155,6 @@ p {
 	height: 100%;
 }
 
-iframe {
-	border-radius: 10px;
-	position: relative;
-	left: 89px;
-	top: 59px;
-}
 
 .platform {
 	width: 68px;
@@ -197,6 +190,13 @@ iframe {
 
 .windows:hover {
 	background-image: url('img/devices/windows-hover.png');
+}
+
+#some-video {
+	border-radius: 10px;
+	position: relative;
+	left: 89px;
+	top: 59px;
 }
 
 /* Citation */
