@@ -1,6 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700,300);
+
 body {
 	background: white;
 	margin: 0;
+	font-family: Raleway;
 }
 
 p {
@@ -8,24 +11,6 @@ p {
 	color: #848484;
 	font-size: 16px;
 	line-height: 1.5;
-}
-
-p.center {
-	text-align: center;
-	font-family: Raleway;
-	padding-top: 44px;
-	color: black;
-}
-
-h3 {
-	font-family: Raleway;
-	
-}
-
-h4 {
-	font-family: Raleway;
-	color: black;
-	text-align: center;
 }
 
 
@@ -214,9 +199,24 @@ iframe {
 	background-image: url('img/devices/windows-hover.png');
 }
 
+/* Citation */
 .citation {
 	height: 163px;
 }
+
+.citation p {
+	text-align: center;
+	padding-top: 44px;
+	color: black;
+}
+
+
+.citation h4 {
+	font-family: inherit;
+	color: black;
+	text-align: center;
+}
+
 
 	/* Faces */
 .faces {
