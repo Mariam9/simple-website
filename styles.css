@@ -238,6 +238,9 @@ h3 {
 	background: #e3e3e3 url('img/faces-bg.jpg') no-repeat center;
 	height: 318px;
 	margin-right: 7px;
+	position: relative;
+	bottom: 8px;
+	left: 1px;
 }
 
 /* Get in touch*/
@@ -247,6 +250,7 @@ h3 {
 
 .get-in-touch h2 {
 	margin-top: 50px;
+
 }
 
 .socials-block {
