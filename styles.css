@@ -107,9 +107,20 @@ h3 {
 .feature-column {
 	width: 375px;
 	height: 100%;
+	
+}
+
+.push-left.feature-column {
 	position: relative;
 	left: 36px;
 	bottom: 3px;
+
+}
+
+.push-right.feature-column {
+	position: relative;
+	right: 31px;
+	bottom: 4px;
 }
 
 .feature-middle-col {
@@ -125,9 +136,14 @@ h3 {
 .service-item {
 	width: 300px;
 	margin: 56px auto 0 auto;
+
 }
 
+.another {
+	position: relative;
+	bottom: 7px;
 
+}
 
 /* Get App block */
 .get-app-block {
