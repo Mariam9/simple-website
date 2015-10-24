@@ -139,10 +139,22 @@ h3 {
 
 }
 
-.another {
+.another-feature {
 	position: relative;
 	bottom: 7px;
 
+}
+
+.first {
+	position: relative;
+	bottom: 3px;
+	left: 2px;
+}
+
+.second {
+	position: relative;
+	bottom: 10px;
+	left: 1px;
 }
 
 /* Get App block */
